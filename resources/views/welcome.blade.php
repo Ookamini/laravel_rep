@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 DOSVIDULI</div>
+                <div class="title">Laravel 5 DOSVIDULIa</div>
             </div>
         </div>
     </body>
